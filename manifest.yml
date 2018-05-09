@@ -6,4 +6,4 @@ applications:
   instances: 1
   host: super-mini
   domain: cfapps.io
-  path: target/super-mini-1.0.0-SNAPSHOT.jar
+#   path: target/super-mini-1.0.0-SNAPSHOT.jar
